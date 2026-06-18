@@ -157,7 +157,8 @@
   }
 
   .testimonial-card {
-    width: 80vw;
+    width: 100%;
+    max-width: 1100px;
     height: 41vw;
     margin: auto;
     display: flex;
