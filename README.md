@@ -36,8 +36,8 @@ src/
 
 1.  **Cloner le dépôt** :
     ```bash
-    git clone https://github.com/votre-utilisateur/wave-clone.git
-    cd wave-clone
+    git clone https://github.com/RochArmel/wave_clone.git
+    cd wave_clone
     ```
 
 2.  **Installer les dépendances** :
@@ -49,7 +49,7 @@ src/
     ```bash
     npm run dev
     ```
-    L'application sera accessible sur `http://localhost:5173/fr/`.
+    L'application sera accessible sur [http://localhost:5173/](http://localhost:5173/) (qui redirige automatiquement vers `/fr/`).
 
 ## 📦 Construction pour la production
 
